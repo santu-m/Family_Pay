@@ -1,4 +1,4 @@
-#Banking-System
+#Family_pay is a simple banking app.
 
 This app is made to complete Task#2 of Graduate Rotational Intership Program(GRIP) of The Sparks Foundation i.e.,Basic Banking System in an android app.
 
